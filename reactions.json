@@ -1,0 +1,39 @@
+{
+    "reactions": {
+      "positive": [
+        { "kn": "Super guru! 😎", "en": "Awesome job!" },
+        { "kn": "Sariyagi maadidira! 👏", "en": "You did it perfectly!" },
+        { "kn": "Neenu top-class Kannadiga aagta idira! 🇮🇳", "en": "You’re becoming a top-class Kannadiga!" },
+        { "kn": "Chennagide! Haage practice maadta iri.", "en": "Nice! Keep practicing like that." },
+        { "kn": "Nimma Kannada master level aagide! 🎓", "en": "Your Kannada is at master level now!" },
+        { "kn": "Ayyo! Eshtu chennagi helidri! 🔥", "en": "Whoa! That was really well said!" },
+        { "kn": "Kannada perfect aagbitu, bere level! 🚀", "en": "Your Kannada’s perfect now — next level stuff!" },
+        { "kn": "Kannada sari bandre, coffee kondu baru! ☕", "en": "You got Kannada right, now go get yourself a coffee!" },
+        { "kn": "Iga auto driver-jothe Kannada nalli maatadbahudu! 🚗", "en": "Now you can talk to the auto driver in Kannada!" },
+        { "kn": "Maja aagbitu! Supper aaitu!", "en": "That was fun! Super work!" },
+        { "kn": "Kannada style bandu nimge! 😍", "en": "You’ve got the Kannada style now!" },
+        { "kn": "Kannada kalivudalli progress super! 🏆", "en": "Your progress in learning Kannada is awesome!" },
+        { "kn": "Adbhuta uttara! 👍", "en": "Fantastic answer!" },
+        { "kn": "Kannada eshtu chennagi bartide andre khushi aaitu! 😊", "en": "Feels great to see your Kannada getting so good!" },
+        { "kn": "Ivattu kelidre, Kannada nalli nin answer nodi astonished aagtare! 😉", "en": "If someone heard that, they’d be impressed by your Kannada!" }
+      ],
+      "negative": [
+        { "kn": "Ayyo! Swalpa tappagide guru! 😅", "en": "Oh no! Little mistake there, boss!" },
+        { "kn": "Paravagilla, mundina baari sari aagutte. 🙂", "en": "No worries, you’ll get it next time." },
+        { "kn": "Kannada vyakarana swalpa over aagbitu! 🤭", "en": "Kannada grammar went a bit overboard there!" },
+        { "kn": "Neenu helodralli artha swalpa tappitu! 🤔", "en": "The meaning slipped a little in what you said!" },
+        { "kn": "Samipadalli idira, swalpa jaasti abhyasa beku! 💪", "en": "You were close — just need a bit more practice!" },
+        { "kn": "Ee uttara nodi Google Translate kooda confuse aaitu! 😂", "en": "Even Google Translate would be confused by that one!" },
+        { "kn": "Auto driver confuse aagta idane iga! 🚗", "en": "Now the auto driver would be totally confused!" },
+        { "kn": "Olle prayatna, aadre sariyadha pada bere! 🙈", "en": "Good try, but the right word is something else!" },
+        { "kn": "Bere artha bandu idrinda! 😬", "en": "That gave a totally different meaning!" },
+        { "kn": "Haudu ansta ide, aadre nodona mathe. 😉", "en": "Seems right, but let’s take another look!" },
+        { "kn": "Idanna keli Kannada guru swalpa nakidru! 😄", "en": "Even the Kannada teacher chuckled at that!" },
+        { "kn": "Ayyo! Idanna kelidre ajji swalpa shock aagtaale! 😳", "en": "Oh no! If grandma heard that, she’d be a bit shocked!"},
+        { "kn": "Chinte beda, tappu maadodrinda kalitira. 💡", "en": "Don’t worry, mistakes are how you learn." },
+        { "kn": "Kannada swalpa kicchu haakbeku innu! 🔥", "en": "Need to spice up your Kannada a bit more!" },
+        { "kn": "Heege helidre yaarigu artha aagodilla! 🤷‍♂️", "en": "Say it like that and no one will understand you!" }
+      ]
+    }
+  }
+  

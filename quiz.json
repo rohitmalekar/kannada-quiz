@@ -1,0 +1,4148 @@
+{
+  "quiz_id": "lesson_01_basics_full",
+  "title": "Comprehensive Kannada Basics Practice",
+  "description": "Practice day-to-day Kannada using multiple question types.",
+  "questions": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "prompt": "I want water.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage neeru beku",
+        "Nannage neeru beda",
+        "Nannage neeru kuḍiyalla"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Beku' means want / need.",
+      "tags": [
+        "beku",
+        "water",
+        "need"
+      ]
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "prompt": "I want coffee.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage coffee beku",
+        "Nannage coffee beda",
+        "Nannage coffee ista"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Beku' expresses want or need.",
+      "tags": [
+        "beku",
+        "coffee",
+        "need"
+      ]
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "prompt": "I want tea.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage tea beku",
+        "Nannage tea beda",
+        "Nannage tea ista"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Use 'beku' for want / need.",
+      "tags": [
+        "beku",
+        "tea",
+        "need"
+      ]
+    },
+    {
+      "id": "mc4",
+      "type": "multiple_choice",
+      "prompt": "I want food.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage oota beku",
+        "Nannage oota beda",
+        "Nannage oota ista"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Beku' expresses want / need.",
+      "tags": [
+        "beku",
+        "food",
+        "need"
+      ]
+    },
+    {
+      "id": "mc5",
+      "type": "multiple_choice",
+      "prompt": "I want sleep.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage nidde beku",
+        "Nannage nidde beda",
+        "Nannage nidde ista"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Nidde beku' means 'need sleep'.",
+      "tags": [
+        "beku",
+        "sleep",
+        "need"
+      ]
+    },
+    {
+      "id": "mc6",
+      "type": "multiple_choice",
+      "prompt": "I want the book.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage pustaka beku",
+        "Nannage pustaka beda",
+        "Nannage pustaka kodi"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Beku' means want / need. 'Kodi' is give.",
+      "tags": [
+        "beku",
+        "book",
+        "need"
+      ]
+    },
+    {
+      "id": "mc7",
+      "type": "multiple_choice",
+      "prompt": "I want the phone.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage phone beku",
+        "Nannage phone beda",
+        "Nannage phone kodi"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Use 'beku' after the object you want.",
+      "tags": [
+        "beku",
+        "phone",
+        "need"
+      ]
+    },
+    {
+      "id": "mc8",
+      "type": "multiple_choice",
+      "prompt": "I need work.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu kelasa maadbeku",
+        "Naanu kelasa maadalla",
+        "Naanu kelasa maadta idini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Maadbeku' means need to do work.",
+      "tags": [
+        "beku",
+        "work",
+        "need"
+      ]
+    },
+    {
+      "id": "mc9",
+      "type": "multiple_choice",
+      "prompt": "I like coffee.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage coffee ista",
+        "Nannage coffee beda",
+        "Nannage coffee ista illa"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Ista' means like.",
+      "tags": [
+        "ista",
+        "coffee",
+        "like"
+      ]
+    },
+    {
+      "id": "mc10",
+      "type": "multiple_choice",
+      "prompt": "I don't like soda.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage soda ista illa",
+        "Nannage soda ista",
+        "Nannage soda beku"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Ista illa' means don't like.",
+      "tags": [
+        "ista illa",
+        "soda",
+        "dislike"
+      ]
+    },
+    {
+      "id": "mc11",
+      "type": "multiple_choice",
+      "prompt": "I like Kannada.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage Kannada ista",
+        "Nannage Kannada ista illa",
+        "Nannage Kannada beda"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Ista' means like.",
+      "tags": [
+        "ista",
+        "Kannada",
+        "like"
+      ]
+    },
+    {
+      "id": "mc12",
+      "type": "multiple_choice",
+      "prompt": "I don't like traffic.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage traffic ista illa",
+        "Nannage traffic ista",
+        "Nannage traffic beku"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Use 'ista illa' to express don't like.",
+      "tags": [
+        "ista illa",
+        "traffic",
+        "dislike"
+      ]
+    },
+    {
+      "id": "mc13",
+      "type": "multiple_choice",
+      "prompt": "I don't want coffee.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage coffee beda",
+        "Nannage coffee beku",
+        "Nannage coffee ista"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Beda' means don't want.",
+      "tags": [
+        "beda",
+        "coffee",
+        "refusal"
+      ]
+    },
+    {
+      "id": "mc14",
+      "type": "multiple_choice",
+      "prompt": "I don't want water.",
+      "prompt_lang": "en",
+      "options": [
+        "Nannage neeru beda",
+        "Nannage neeru beku",
+        "Nannage neeru ista"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Beda' expresses don't want.",
+      "tags": [
+        "beda",
+        "water",
+        "refusal"
+      ]
+    },
+    {
+      "id": "mc15",
+      "type": "multiple_choice",
+      "prompt": "I will go.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu hogutini",
+        "Naanu hogta idini",
+        "Naanu hoge"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Hogutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "go"
+      ]
+    },
+    {
+      "id": "mc16",
+      "type": "multiple_choice",
+      "prompt": "I am going.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu hogta idini",
+        "Naanu hogutini",
+        "Naanu hogde"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Hogta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "go"
+      ]
+    },
+    {
+      "id": "mc17",
+      "type": "multiple_choice",
+      "prompt": "I went.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu hōde",
+        "Naanu hogta idini",
+        "Naanu hogutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Hōde' is past tense 'I went'.",
+      "tags": [
+        "tense",
+        "past",
+        "go"
+      ]
+    },
+    {
+      "id": "mc18",
+      "type": "multiple_choice",
+      "prompt": "I will come.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu bartini",
+        "Naanu barta idini",
+        "Naanu bande"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Bartini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "come"
+      ]
+    },
+    {
+      "id": "mc19",
+      "type": "multiple_choice",
+      "prompt": "I am coming.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu barta idini",
+        "Naanu bartini",
+        "Naanu bande"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Barta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "come"
+      ]
+    },
+    {
+      "id": "mc20",
+      "type": "multiple_choice",
+      "prompt": "I came.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu bande",
+        "Naanu barta idini",
+        "Naanu bartini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Bande' is past tense 'I came'.",
+      "tags": [
+        "tense",
+        "past",
+        "come"
+      ]
+    },
+    {
+      "id": "mc21",
+      "type": "multiple_choice",
+      "prompt": "I will work.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu kelasa maadutini",
+        "Naanu kelasa maadta idini",
+        "Naanu kelasa maadide"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Maadutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "work"
+      ]
+    },
+    {
+      "id": "mc22",
+      "type": "multiple_choice",
+      "prompt": "I am working.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu kelasa maadta idini",
+        "Naanu kelasa maadutini",
+        "Naanu kelasa maadide"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Maadta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "work"
+      ]
+    },
+    {
+      "id": "mc23",
+      "type": "multiple_choice",
+      "prompt": "I worked.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu kelasa maadide",
+        "Naanu kelasa maadta idini",
+        "Naanu kelasa maadutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Maadide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "work"
+      ]
+    },
+    {
+      "id": "mc24",
+      "type": "multiple_choice",
+      "prompt": "I will eat breakfast.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu tindi tinnutini",
+        "Naanu tindi tinnuta idini",
+        "Naanu tindi tinnide"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Tinnutini' is future tense 'I will eat'.",
+      "tags": [
+        "tense",
+        "future",
+        "eat"
+      ]
+    },
+    {
+      "id": "mc25",
+      "type": "multiple_choice",
+      "prompt": "I am eating breakfast.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu tindi tinnuta idini",
+        "Naanu tindi tinnutini",
+        "Naanu tindi tinnide"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Tinnuta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "eat"
+      ]
+    },
+    {
+      "id": "mc26",
+      "type": "multiple_choice",
+      "prompt": "I ate breakfast.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu tindi tinnide",
+        "Naanu tindi tinnuta idini",
+        "Naanu tindi tinnutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Tinnide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "eat"
+      ]
+    },
+    {
+      "id": "mc27",
+      "type": "multiple_choice",
+      "prompt": "I am drinking water.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu neeru kudita idini",
+        "Naanu neeru kudutini",
+        "Naanu neeru kudide"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Kudita idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "drink"
+      ]
+    },
+    {
+      "id": "mc28",
+      "type": "multiple_choice",
+      "prompt": "I drank water.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu neeru kudide",
+        "Naanu neeru kudita idini",
+        "Naanu neeru kudutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Kudide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "drink"
+      ]
+    },
+    {
+      "id": "mc29",
+      "type": "multiple_choice",
+      "prompt": "I will drink water.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu neeru kudutini",
+        "Naanu neeru kudita idini",
+        "Naanu neeru kudide"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Kudutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "drink"
+      ]
+    },
+    {
+      "id": "mc30",
+      "type": "multiple_choice",
+      "prompt": "I am reading the book.",
+      "prompt_lang": "en",
+      "options": [
+        "Naanu pustaka ooduta idini",
+        "Naanu pustaka oodutini",
+        "Naanu pustaka oodide"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Ooduta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "read"
+      ]
+    },
+    {
+      "id": "text1",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage neeru ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I need water.",
+      "explanation": "Use 'beku' to show want / need.",
+      "tags": [
+        "beku",
+        "water"
+      ]
+    },
+    {
+      "id": "text2",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage coffee ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I need coffee.",
+      "explanation": "Use 'beku' after the thing you want.",
+      "tags": [
+        "beku",
+        "coffee"
+      ]
+    },
+    {
+      "id": "text3",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage tea ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I need tea.",
+      "explanation": "Use 'beku' to indicate want/need.",
+      "tags": [
+        "beku",
+        "tea"
+      ]
+    },
+    {
+      "id": "text4",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage oota ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I need food.",
+      "explanation": "'Oota' means food; 'beku' means want/need.",
+      "tags": [
+        "beku",
+        "food"
+      ]
+    },
+    {
+      "id": "text5",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage nidde ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I need sleep.",
+      "explanation": "'Nidde' means sleep; 'beku' shows need.",
+      "tags": [
+        "beku",
+        "sleep"
+      ]
+    },
+    {
+      "id": "text6",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage pustaka ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I need the book.",
+      "explanation": "Use 'beku' to express need.",
+      "tags": [
+        "beku",
+        "book"
+      ]
+    },
+    {
+      "id": "text7",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage phone ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I need the phone.",
+      "explanation": "Use 'beku' after the object.",
+      "tags": [
+        "beku",
+        "phone"
+      ]
+    },
+    {
+      "id": "text8",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage neeru ___",
+      "answer_variants": [
+        "beda",
+        "beda."
+      ],
+      "english_hint": "I don't want water.",
+      "explanation": "'Beda' expresses don't want / no.",
+      "tags": [
+        "beda",
+        "water"
+      ]
+    },
+    {
+      "id": "text9",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage coffee ___",
+      "answer_variants": [
+        "beda",
+        "beda."
+      ],
+      "english_hint": "I don't want coffee.",
+      "explanation": "Use 'beda' to say don't want.",
+      "tags": [
+        "beda",
+        "coffee"
+      ]
+    },
+    {
+      "id": "text10",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage tea ___",
+      "answer_variants": [
+        "beda",
+        "beda."
+      ],
+      "english_hint": "I don't want tea.",
+      "explanation": "'Beda' means don't want.",
+      "tags": [
+        "beda",
+        "tea"
+      ]
+    },
+    {
+      "id": "text11",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage oota ___",
+      "answer_variants": [
+        "beda",
+        "beda."
+      ],
+      "english_hint": "I don't want food.",
+      "explanation": "Use 'beda' for don't want.",
+      "tags": [
+        "beda",
+        "food"
+      ]
+    },
+    {
+      "id": "text12",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage coffee ___",
+      "answer_variants": [
+        "ista",
+        "ista."
+      ],
+      "english_hint": "I like coffee.",
+      "explanation": "'Ista' means like.",
+      "tags": [
+        "ista",
+        "coffee"
+      ]
+    },
+    {
+      "id": "text13",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage soda ___",
+      "answer_variants": [
+        "ista illa",
+        "ista illa."
+      ],
+      "english_hint": "I don't like soda.",
+      "explanation": "'Ista illa' means don't like.",
+      "tags": [
+        "ista illa",
+        "soda"
+      ]
+    },
+    {
+      "id": "text14",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage Kannada ___",
+      "answer_variants": [
+        "ista",
+        "ista."
+      ],
+      "english_hint": "I like Kannada.",
+      "explanation": "Use 'ista' for like.",
+      "tags": [
+        "ista",
+        "Kannada"
+      ]
+    },
+    {
+      "id": "text15",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Nannage traffic ___",
+      "answer_variants": [
+        "ista illa",
+        "ista illa."
+      ],
+      "english_hint": "I don't like traffic.",
+      "explanation": "'Ista illa' expresses don't like.",
+      "tags": [
+        "ista illa",
+        "traffic"
+      ]
+    },
+    {
+      "id": "text16",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu kelasa ___",
+      "answer_variants": [
+        "maadta idini",
+        "maadta idini."
+      ],
+      "english_hint": "I am doing work.",
+      "explanation": "'Maadta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "work"
+      ]
+    },
+    {
+      "id": "text17",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu kelasa ___",
+      "answer_variants": [
+        "maadide",
+        "maadide."
+      ],
+      "english_hint": "I did work.",
+      "explanation": "'Maadide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "work"
+      ]
+    },
+    {
+      "id": "text18",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu kelasa ___",
+      "answer_variants": [
+        "maadutini",
+        "maadutini."
+      ],
+      "english_hint": "I will work.",
+      "explanation": "'Maadutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "work"
+      ]
+    },
+    {
+      "id": "text19",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu tindi ___",
+      "answer_variants": [
+        "tinnuta idini",
+        "tinnuta idini."
+      ],
+      "english_hint": "I am eating breakfast.",
+      "explanation": "'Tinnuta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "eat"
+      ]
+    },
+    {
+      "id": "text20",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu tindi ___",
+      "answer_variants": [
+        "tinnide",
+        "tinnide."
+      ],
+      "english_hint": "I ate breakfast.",
+      "explanation": "'Tinnide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "eat"
+      ]
+    },
+    {
+      "id": "text21",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu tindi ___",
+      "answer_variants": [
+        "tinnutini",
+        "tinnutini."
+      ],
+      "english_hint": "I will eat breakfast.",
+      "explanation": "'Tinnutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "eat"
+      ]
+    },
+    {
+      "id": "text22",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu neeru ___",
+      "answer_variants": [
+        "kudita idini",
+        "kudita idini."
+      ],
+      "english_hint": "I am drinking water.",
+      "explanation": "'Kudita idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "drink"
+      ]
+    },
+    {
+      "id": "text23",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu neeru ___",
+      "answer_variants": [
+        "kudide",
+        "kudide."
+      ],
+      "english_hint": "I drank water.",
+      "explanation": "'Kudide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "drink"
+      ]
+    },
+    {
+      "id": "text24",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu neeru ___",
+      "answer_variants": [
+        "kudutini",
+        "kudutini."
+      ],
+      "english_hint": "I will drink water.",
+      "explanation": "'Kudutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "drink"
+      ]
+    },
+    {
+      "id": "text25",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu pustaka ___",
+      "answer_variants": [
+        "ooduta idini",
+        "ooduta idini."
+      ],
+      "english_hint": "I am reading the book.",
+      "explanation": "'Ooduta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "read"
+      ]
+    },
+    {
+      "id": "text26",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu pustaka ___",
+      "answer_variants": [
+        "oodide",
+        "oodide."
+      ],
+      "english_hint": "I read the book.",
+      "explanation": "'Oodide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "read"
+      ]
+    },
+    {
+      "id": "text27",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu pustaka ___",
+      "answer_variants": [
+        "oodutini",
+        "oodutini."
+      ],
+      "english_hint": "I will read the book.",
+      "explanation": "'Oodutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "read"
+      ]
+    },
+    {
+      "id": "text28",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu music ___",
+      "answer_variants": [
+        "ista",
+        "ista."
+      ],
+      "english_hint": "I like music.",
+      "explanation": "Use 'ista' to express liking.",
+      "tags": [
+        "ista",
+        "music",
+        "like"
+      ]
+    },
+    {
+      "id": "text29",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu traffic ___",
+      "answer_variants": [
+        "ista illa",
+        "ista illa."
+      ],
+      "english_hint": "I don't like traffic.",
+      "explanation": "'Ista illa' shows dislike.",
+      "tags": [
+        "ista illa",
+        "traffic",
+        "dislike"
+      ]
+    },
+    {
+      "id": "text30",
+      "type": "fill_in_blank_text",
+      "sentence_template": "Naanu phone ___",
+      "answer_variants": [
+        "beku",
+        "beku."
+      ],
+      "english_hint": "I want phone.",
+      "explanation": "Use 'beku' to express want.",
+      "tags": [
+        "beku",
+        "phone"
+      ]
+    },
+    {
+      "id": "choice1",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Neevu ___ banni.",
+      "choices": [
+        "olage",
+        "horage",
+        "kelage",
+        "alli"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "Please come inside.",
+      "explanation": "'Olage' means inside; 'banni' is polite 'come'.",
+      "tags": [
+        "location",
+        "politeness"
+      ]
+    },
+    {
+      "id": "choice2",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Lift ___ hogta idini.",
+      "choices": [
+        "kelage",
+        "horage",
+        "olage",
+        "alli"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I am going down.",
+      "explanation": "'Kelage' means down/below.",
+      "tags": [
+        "location",
+        "direction",
+        "present"
+      ]
+    },
+    {
+      "id": "choice3",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu ___ hogta idini.",
+      "choices": [
+        "horage",
+        "olage",
+        "kelage",
+        "alli"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I am going outside.",
+      "explanation": "'Horage' means outside.",
+      "tags": [
+        "location",
+        "present",
+        "go"
+      ]
+    },
+    {
+      "id": "choice4",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Nanna mane Harluru ___ ide.",
+      "choices": [
+        "alli",
+        "olage",
+        "kelage",
+        "horage"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "My house is in Harlur.",
+      "explanation": "'Alli' means in/at.",
+      "tags": [
+        "location",
+        "house"
+      ]
+    },
+    {
+      "id": "choice5",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Nannage naayi ___ aadodu ista.",
+      "choices": [
+        "jote",
+        "olage",
+        "horage",
+        "kelage"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I like playing with dogs.",
+      "explanation": "'Jote' means with.",
+      "tags": [
+        "with",
+        "play",
+        "like"
+      ]
+    },
+    {
+      "id": "choice6",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Namage coffee ___",
+      "choices": [
+        "beku",
+        "beda",
+        "ista",
+        "ista illa"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "We want coffee.",
+      "explanation": "'Beku' expresses want.",
+      "tags": [
+        "beku",
+        "coffee",
+        "we"
+      ]
+    },
+    {
+      "id": "choice7",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Nammage neeru ___",
+      "choices": [
+        "beku",
+        "beda",
+        "ista",
+        "ista illa"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "We don't want water.",
+      "explanation": "'Beda' expresses don't want.",
+      "tags": [
+        "beda",
+        "water",
+        "we"
+      ]
+    },
+    {
+      "id": "choice8",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Nimage tindi ___?",
+      "choices": [
+        "beku",
+        "beda",
+        "ista",
+        "ista illa"
+      ],
+      "correct": [
+        2
+      ],
+      "english_hint": "Do you like breakfast?",
+      "explanation": "'Ista' means like.",
+      "tags": [
+        "ista",
+        "breakfast",
+        "question"
+      ]
+    },
+    {
+      "id": "choice9",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu kelasa ___ idini.",
+      "choices": [
+        "maadta",
+        "maadta idini",
+        "maadide",
+        "maadutini"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I am doing work.",
+      "explanation": "'Maadta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "work"
+      ]
+    },
+    {
+      "id": "choice10",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu kelasa ___",
+      "choices": [
+        "maadide",
+        "maadutini",
+        "maadta idini",
+        "maadalla"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I did work.",
+      "explanation": "'Maadide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "work"
+      ]
+    },
+    {
+      "id": "choice11",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu kelasa ___",
+      "choices": [
+        "maadide",
+        "maadutini",
+        "maadta idini",
+        "maadalla"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I will work.",
+      "explanation": "'Maadutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "work"
+      ]
+    },
+    {
+      "id": "choice12",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu oota ___",
+      "choices": [
+        "tinnuta idini",
+        "tinnide",
+        "tinnutini",
+        "tinnalla"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I am eating.",
+      "explanation": "'Tinnuta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "eat"
+      ]
+    },
+    {
+      "id": "choice13",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu oota ___",
+      "choices": [
+        "tinnuta idini",
+        "tinnide",
+        "tinnutini",
+        "tinnalla"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I ate.",
+      "explanation": "'Tinnide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "eat"
+      ]
+    },
+    {
+      "id": "choice14",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu oota ___",
+      "choices": [
+        "tinnuta idini",
+        "tinnide",
+        "tinnutini",
+        "tinnalla"
+      ],
+      "correct": [
+        2
+      ],
+      "english_hint": "I will eat.",
+      "explanation": "'Tinnutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "eat"
+      ]
+    },
+    {
+      "id": "choice15",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu neeru ___",
+      "choices": [
+        "kudita idini",
+        "kudide",
+        "kudutini",
+        "kudalla"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I am drinking water.",
+      "explanation": "'Kudita idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "drink"
+      ]
+    },
+    {
+      "id": "choice16",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu neeru ___",
+      "choices": [
+        "kudita idini",
+        "kudide",
+        "kudutini",
+        "kudalla"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I drank water.",
+      "explanation": "'Kudide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "drink"
+      ]
+    },
+    {
+      "id": "choice17",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu neeru ___",
+      "choices": [
+        "kudita idini",
+        "kudide",
+        "kudutini",
+        "kudalla"
+      ],
+      "correct": [
+        2
+      ],
+      "english_hint": "I will drink water.",
+      "explanation": "'Kudutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "drink"
+      ]
+    },
+    {
+      "id": "choice18",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu pustaka ___",
+      "choices": [
+        "ooduta idini",
+        "oodide",
+        "oodutini",
+        "oodalla"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I am reading the book.",
+      "explanation": "'Ooduta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "read"
+      ]
+    },
+    {
+      "id": "choice19",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu pustaka ___",
+      "choices": [
+        "ooduta idini",
+        "oodide",
+        "oodutini",
+        "oodalla"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I read the book.",
+      "explanation": "'Oodide' is past tense.",
+      "tags": [
+        "tense",
+        "past",
+        "read"
+      ]
+    },
+    {
+      "id": "choice20",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu pustaka ___",
+      "choices": [
+        "ooduta idini",
+        "oodide",
+        "oodutini",
+        "oodalla"
+      ],
+      "correct": [
+        2
+      ],
+      "english_hint": "I will read the book.",
+      "explanation": "'Oodutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "read"
+      ]
+    },
+    {
+      "id": "choice21",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu music ___",
+      "choices": [
+        "ista",
+        "ista illa",
+        "beku",
+        "beda"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I like music.",
+      "explanation": "'Ista' means like.",
+      "tags": [
+        "ista",
+        "music",
+        "like"
+      ]
+    },
+    {
+      "id": "choice22",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu coffee ___",
+      "choices": [
+        "ista",
+        "ista illa",
+        "beku",
+        "beda"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I don't like coffee.",
+      "explanation": "'Ista illa' means don't like.",
+      "tags": [
+        "ista illa",
+        "coffee",
+        "dislike"
+      ]
+    },
+    {
+      "id": "choice23",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu Kannada ___",
+      "choices": [
+        "ista",
+        "ista illa",
+        "beku",
+        "beda"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I like Kannada.",
+      "explanation": "Use 'ista' for like.",
+      "tags": [
+        "ista",
+        "Kannada",
+        "like"
+      ]
+    },
+    {
+      "id": "choice24",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu traffic ___",
+      "choices": [
+        "ista",
+        "ista illa",
+        "beku",
+        "beda"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I don't like traffic.",
+      "explanation": "'Ista illa' expresses don't like.",
+      "tags": [
+        "ista illa",
+        "traffic",
+        "dislike"
+      ]
+    },
+    {
+      "id": "choice25",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu phone ___",
+      "choices": [
+        "beku",
+        "beda",
+        "ista",
+        "ista illa"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I want phone.",
+      "explanation": "Use 'beku' to express want.",
+      "tags": [
+        "beku",
+        "phone",
+        "want"
+      ]
+    },
+    {
+      "id": "choice26",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu phone ___",
+      "choices": [
+        "beku",
+        "beda",
+        "ista",
+        "ista illa"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I don't want phone.",
+      "explanation": "'Beda' means don't want.",
+      "tags": [
+        "beda",
+        "phone",
+        "refusal"
+      ]
+    },
+    {
+      "id": "choice27",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu tea ___",
+      "choices": [
+        "ista",
+        "ista illa",
+        "beku",
+        "beda"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I like tea.",
+      "explanation": "'Ista' expresses like.",
+      "tags": [
+        "ista",
+        "tea",
+        "like"
+      ]
+    },
+    {
+      "id": "choice28",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu tea ___",
+      "choices": [
+        "ista",
+        "ista illa",
+        "beku",
+        "beda"
+      ],
+      "correct": [
+        1
+      ],
+      "english_hint": "I don't like tea.",
+      "explanation": "'Ista illa' means don't like.",
+      "tags": [
+        "ista illa",
+        "tea",
+        "dislike"
+      ]
+    },
+    {
+      "id": "choice29",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu cinema ___",
+      "choices": [
+        "nodta idini",
+        "nodide",
+        "nodutini",
+        "nodalla"
+      ],
+      "correct": [
+        0
+      ],
+      "english_hint": "I am watching a movie.",
+      "explanation": "'Nodta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present",
+        "watch"
+      ]
+    },
+    {
+      "id": "choice30",
+      "type": "fill_in_blank_choice",
+      "sentence_template": "Naanu cinema ___",
+      "choices": [
+        "nodta idini",
+        "nodide",
+        "nodutini",
+        "nodalla"
+      ],
+      "correct": [
+        2
+      ],
+      "english_hint": "I will watch a movie.",
+      "explanation": "'Nodutini' is future tense.",
+      "tags": [
+        "tense",
+        "future",
+        "watch"
+      ]
+    },
+    {
+      "id": "build1",
+      "type": "build_from_parts",
+      "target_translation": "I am going.",
+      "parts_pool": [
+        "Naanu",
+        "hogta",
+        "idini",
+        "hogutini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "hogta",
+        "idini"
+      ],
+      "explanation": "'Hogta idini' is present continuous 'I am going'.",
+      "tags": [
+        "tense",
+        "present",
+        "go"
+      ]
+    },
+    {
+      "id": "build2",
+      "type": "build_from_parts",
+      "target_translation": "I went.",
+      "parts_pool": [
+        "Naanu",
+        "hōde",
+        "hogta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "hōde"
+      ],
+      "explanation": "'Hōde' is past tense 'I went'.",
+      "tags": [
+        "tense",
+        "past",
+        "go"
+      ]
+    },
+    {
+      "id": "build3",
+      "type": "build_from_parts",
+      "target_translation": "I will go.",
+      "parts_pool": [
+        "Naanu",
+        "hogutini",
+        "hogta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "hogutini"
+      ],
+      "explanation": "'Hogutini' expresses future 'I will go'.",
+      "tags": [
+        "tense",
+        "future",
+        "go"
+      ]
+    },
+    {
+      "id": "build4",
+      "type": "build_from_parts",
+      "target_translation": "I am coming.",
+      "parts_pool": [
+        "Naanu",
+        "barta",
+        "idini",
+        "bartini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "barta",
+        "idini"
+      ],
+      "explanation": "'Barta idini' is present continuous 'I am coming'.",
+      "tags": [
+        "tense",
+        "present",
+        "come"
+      ]
+    },
+    {
+      "id": "build5",
+      "type": "build_from_parts",
+      "target_translation": "I came.",
+      "parts_pool": [
+        "Naanu",
+        "bande",
+        "barta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "bande"
+      ],
+      "explanation": "'Bande' is past tense 'I came'.",
+      "tags": [
+        "tense",
+        "past",
+        "come"
+      ]
+    },
+    {
+      "id": "build6",
+      "type": "build_from_parts",
+      "target_translation": "I will come.",
+      "parts_pool": [
+        "Naanu",
+        "bartini",
+        "barta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "bartini"
+      ],
+      "explanation": "'Bartini' expresses future 'I will come'.",
+      "tags": [
+        "tense",
+        "future",
+        "come"
+      ]
+    },
+    {
+      "id": "build7",
+      "type": "build_from_parts",
+      "target_translation": "I am doing work.",
+      "parts_pool": [
+        "Naanu",
+        "kelasa",
+        "maadta",
+        "idini",
+        "maadide"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "kelasa",
+        "maadta",
+        "idini"
+      ],
+      "explanation": "'Maadta idini' is present continuous 'I am doing'.",
+      "tags": [
+        "tense",
+        "present",
+        "work"
+      ]
+    },
+    {
+      "id": "build8",
+      "type": "build_from_parts",
+      "target_translation": "I did work.",
+      "parts_pool": [
+        "Naanu",
+        "kelasa",
+        "maadide",
+        "maadta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "kelasa",
+        "maadide"
+      ],
+      "explanation": "'Maadide' is past tense 'I did work'.",
+      "tags": [
+        "tense",
+        "past",
+        "work"
+      ]
+    },
+    {
+      "id": "build9",
+      "type": "build_from_parts",
+      "target_translation": "I will work.",
+      "parts_pool": [
+        "Naanu",
+        "kelasa",
+        "maadutini",
+        "maadta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "kelasa",
+        "maadutini"
+      ],
+      "explanation": "'Maadutini' expresses future 'I will work'.",
+      "tags": [
+        "tense",
+        "future",
+        "work"
+      ]
+    },
+    {
+      "id": "build10",
+      "type": "build_from_parts",
+      "target_translation": "I am eating breakfast.",
+      "parts_pool": [
+        "Naanu",
+        "tindi",
+        "tinnuta",
+        "idini",
+        "tinnide"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "tindi",
+        "tinnuta",
+        "idini"
+      ],
+      "explanation": "'Tinnuta idini' is present continuous 'I am eating'.",
+      "tags": [
+        "tense",
+        "present",
+        "eat"
+      ]
+    },
+    {
+      "id": "build11",
+      "type": "build_from_parts",
+      "target_translation": "I ate breakfast.",
+      "parts_pool": [
+        "Naanu",
+        "tindi",
+        "tinnide",
+        "tinnuta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "tindi",
+        "tinnide"
+      ],
+      "explanation": "'Tinnide' is past tense 'I ate'.",
+      "tags": [
+        "tense",
+        "past",
+        "eat"
+      ]
+    },
+    {
+      "id": "build12",
+      "type": "build_from_parts",
+      "target_translation": "I will eat breakfast.",
+      "parts_pool": [
+        "Naanu",
+        "tindi",
+        "tinnutini",
+        "tinnuta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "tindi",
+        "tinnutini"
+      ],
+      "explanation": "'Tinnutini' expresses future 'I will eat'.",
+      "tags": [
+        "tense",
+        "future",
+        "eat"
+      ]
+    },
+    {
+      "id": "build13",
+      "type": "build_from_parts",
+      "target_translation": "I am drinking water.",
+      "parts_pool": [
+        "Naanu",
+        "neeru",
+        "kudita",
+        "idini",
+        "kudide"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "neeru",
+        "kudita",
+        "idini"
+      ],
+      "explanation": "'Kudita idini' is present continuous 'I am drinking'.",
+      "tags": [
+        "tense",
+        "present",
+        "drink"
+      ]
+    },
+    {
+      "id": "build14",
+      "type": "build_from_parts",
+      "target_translation": "I drank water.",
+      "parts_pool": [
+        "Naanu",
+        "neeru",
+        "kudide",
+        "kudita",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "neeru",
+        "kudide"
+      ],
+      "explanation": "'Kudide' is past tense 'I drank'.",
+      "tags": [
+        "tense",
+        "past",
+        "drink"
+      ]
+    },
+    {
+      "id": "build15",
+      "type": "build_from_parts",
+      "target_translation": "I will drink water.",
+      "parts_pool": [
+        "Naanu",
+        "neeru",
+        "kudutini",
+        "kudita",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "neeru",
+        "kudutini"
+      ],
+      "explanation": "'Kudutini' expresses future 'I will drink'.",
+      "tags": [
+        "tense",
+        "future",
+        "drink"
+      ]
+    },
+    {
+      "id": "build16",
+      "type": "build_from_parts",
+      "target_translation": "I am reading the book.",
+      "parts_pool": [
+        "Naanu",
+        "pustaka",
+        "ooduta",
+        "idini",
+        "oodide"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "pustaka",
+        "ooduta",
+        "idini"
+      ],
+      "explanation": "'Ooduta idini' is present continuous 'I am reading'.",
+      "tags": [
+        "tense",
+        "present",
+        "read"
+      ]
+    },
+    {
+      "id": "build17",
+      "type": "build_from_parts",
+      "target_translation": "I read the book.",
+      "parts_pool": [
+        "Naanu",
+        "pustaka",
+        "oodide",
+        "ooduta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "pustaka",
+        "oodide"
+      ],
+      "explanation": "'Oodide' is past tense 'I read'.",
+      "tags": [
+        "tense",
+        "past",
+        "read"
+      ]
+    },
+    {
+      "id": "build18",
+      "type": "build_from_parts",
+      "target_translation": "I will read the book.",
+      "parts_pool": [
+        "Naanu",
+        "pustaka",
+        "oodutini",
+        "ooduta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "pustaka",
+        "oodutini"
+      ],
+      "explanation": "'Oodutini' expresses future 'I will read'.",
+      "tags": [
+        "tense",
+        "future",
+        "read"
+      ]
+    },
+    {
+      "id": "build19",
+      "type": "build_from_parts",
+      "target_translation": "I am listening.",
+      "parts_pool": [
+        "Naanu",
+        "keluta",
+        "idini",
+        "kelide"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "keluta",
+        "idini"
+      ],
+      "explanation": "'Keluta idini' is present continuous 'I am listening'.",
+      "tags": [
+        "tense",
+        "present",
+        "listen"
+      ]
+    },
+    {
+      "id": "build20",
+      "type": "build_from_parts",
+      "target_translation": "I listened.",
+      "parts_pool": [
+        "Naanu",
+        "kelide",
+        "keluta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "kelide"
+      ],
+      "explanation": "'Kelide' is past tense 'I listened'.",
+      "tags": [
+        "tense",
+        "past",
+        "listen"
+      ]
+    },
+    {
+      "id": "build21",
+      "type": "build_from_parts",
+      "target_translation": "I will listen.",
+      "parts_pool": [
+        "Naanu",
+        "kelutini",
+        "keluta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "kelutini"
+      ],
+      "explanation": "'Kelutini' expresses future 'I will listen'.",
+      "tags": [
+        "tense",
+        "future",
+        "listen"
+      ]
+    },
+    {
+      "id": "build22",
+      "type": "build_from_parts",
+      "target_translation": "I am watching.",
+      "parts_pool": [
+        "Naanu",
+        "noduta",
+        "idini",
+        "nodide"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "noduta",
+        "idini"
+      ],
+      "explanation": "'Noduta idini' is present continuous 'I am watching'.",
+      "tags": [
+        "tense",
+        "present",
+        "watch"
+      ]
+    },
+    {
+      "id": "build23",
+      "type": "build_from_parts",
+      "target_translation": "I watched.",
+      "parts_pool": [
+        "Naanu",
+        "nodide",
+        "noduta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "nodide"
+      ],
+      "explanation": "'Nodide' is past tense 'I watched'.",
+      "tags": [
+        "tense",
+        "past",
+        "watch"
+      ]
+    },
+    {
+      "id": "build24",
+      "type": "build_from_parts",
+      "target_translation": "I will watch.",
+      "parts_pool": [
+        "Naanu",
+        "nodutini",
+        "noduta",
+        "idini"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "nodutini"
+      ],
+      "explanation": "'Nodutini' expresses future 'I will watch'.",
+      "tags": [
+        "tense",
+        "future",
+        "watch"
+      ]
+    },
+    {
+      "id": "build25",
+      "type": "build_from_parts",
+      "target_translation": "I like music.",
+      "parts_pool": [
+        "Naanu",
+        "music",
+        "ista",
+        "ista illa"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "music",
+        "ista"
+      ],
+      "explanation": "'Ista' means like.",
+      "tags": [
+        "ista",
+        "music",
+        "like"
+      ]
+    },
+    {
+      "id": "build26",
+      "type": "build_from_parts",
+      "target_translation": "I don't like traffic.",
+      "parts_pool": [
+        "Naanu",
+        "traffic",
+        "ista illa",
+        "ista"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "traffic",
+        "ista illa"
+      ],
+      "explanation": "'Ista illa' means don't like.",
+      "tags": [
+        "ista illa",
+        "traffic",
+        "dislike"
+      ]
+    },
+    {
+      "id": "build27",
+      "type": "build_from_parts",
+      "target_translation": "I want water.",
+      "parts_pool": [
+        "Naanu",
+        "neeru",
+        "beku",
+        "beda"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "neeru",
+        "beku"
+      ],
+      "explanation": "'Beku' expresses want.",
+      "tags": [
+        "beku",
+        "water",
+        "want"
+      ]
+    },
+    {
+      "id": "build28",
+      "type": "build_from_parts",
+      "target_translation": "I don't want water.",
+      "parts_pool": [
+        "Naanu",
+        "neeru",
+        "beda",
+        "beku"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "neeru",
+        "beda"
+      ],
+      "explanation": "'Beda' expresses don't want.",
+      "tags": [
+        "beda",
+        "water",
+        "refusal"
+      ]
+    },
+    {
+      "id": "build29",
+      "type": "build_from_parts",
+      "target_translation": "I want coffee.",
+      "parts_pool": [
+        "Naanu",
+        "coffee",
+        "beku",
+        "ista"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "coffee",
+        "beku"
+      ],
+      "explanation": "Use 'beku' to express want.",
+      "tags": [
+        "beku",
+        "coffee",
+        "want"
+      ]
+    },
+    {
+      "id": "build30",
+      "type": "build_from_parts",
+      "target_translation": "I don't want coffee.",
+      "parts_pool": [
+        "Naanu",
+        "coffee",
+        "beda",
+        "beku"
+      ],
+      "correct_sequence": [
+        "Naanu",
+        "coffee",
+        "beda"
+      ],
+      "explanation": "'Beda' means don't want.",
+      "tags": [
+        "beda",
+        "coffee",
+        "refusal"
+      ]
+    },
+    {
+      "id": "match1",
+      "type": "match_pairs",
+      "left_items": [
+        "Naanu",
+        "Naavu",
+        "Neenu",
+        "Neevu",
+        "Avalu"
+      ],
+      "right_items": [
+        "I",
+        "We",
+        "You (informal)",
+        "You (polite/plural)",
+        "She"
+      ],
+      "correct_map": {
+        "Naanu": "I",
+        "Naavu": "We",
+        "Neenu": "You (informal)",
+        "Neevu": "You (polite/plural)",
+        "Avalu": "She"
+      },
+      "explanation": "Basic personal pronouns.",
+      "tags": [
+        "pronoun",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match2",
+      "type": "match_pairs",
+      "left_items": [
+        "Nanna",
+        "Namma",
+        "Nimma",
+        "Ninna"
+      ],
+      "right_items": [
+        "my",
+        "our",
+        "your (polite/plural)",
+        "your (informal)"
+      ],
+      "correct_map": {
+        "Nanna": "my",
+        "Namma": "our",
+        "Nimma": "your (polite/plural)",
+        "Ninna": "your (informal)"
+      },
+      "explanation": "Possessive forms.",
+      "tags": [
+        "pronoun",
+        "possessive"
+      ]
+    },
+    {
+      "id": "match3",
+      "type": "match_pairs",
+      "left_items": [
+        "Nannage",
+        "Nimage",
+        "Namage"
+      ],
+      "right_items": [
+        "to me",
+        "to you (polite/plural)",
+        "to us"
+      ],
+      "correct_map": {
+        "Nannage": "to me",
+        "Nimage": "to you (polite/plural)",
+        "Namage": "to us"
+      },
+      "explanation": "Dative forms used with 'beku' and 'beda'.",
+      "tags": [
+        "pronoun",
+        "dative"
+      ]
+    },
+    {
+      "id": "match4",
+      "type": "match_pairs",
+      "left_items": [
+        "olage",
+        "horage",
+        "kelage",
+        "alli",
+        "jote"
+      ],
+      "right_items": [
+        "inside",
+        "outside",
+        "down/below",
+        "in/at",
+        "with"
+      ],
+      "correct_map": {
+        "olage": "inside",
+        "horage": "outside",
+        "kelage": "down/below",
+        "alli": "in/at",
+        "jote": "with"
+      },
+      "explanation": "Common location and relation words.",
+      "tags": [
+        "location",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match5",
+      "type": "match_pairs",
+      "left_items": [
+        "beku",
+        "beda",
+        "ista",
+        "ista illa",
+        "kodi"
+      ],
+      "right_items": [
+        "want/need",
+        "don't want",
+        "like",
+        "don't like",
+        "give (polite)"
+      ],
+      "correct_map": {
+        "beku": "want/need",
+        "beda": "don't want",
+        "ista": "like",
+        "ista illa": "don't like",
+        "kodi": "give (polite)"
+      },
+      "explanation": "Essential expressions for wants and likes.",
+      "tags": [
+        "expression",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match6",
+      "type": "match_pairs",
+      "left_items": [
+        "hogu",
+        "baru",
+        "maadu",
+        "oodu",
+        "kelu"
+      ],
+      "right_items": [
+        "go",
+        "come",
+        "do",
+        "read",
+        "listen"
+      ],
+      "correct_map": {
+        "hogu": "go",
+        "baru": "come",
+        "maadu": "do",
+        "oodu": "read",
+        "kelu": "listen"
+      },
+      "explanation": "Common verb roots and meanings.",
+      "tags": [
+        "verb",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match7",
+      "type": "match_pairs",
+      "left_items": [
+        "kudi",
+        "nodu",
+        "maataadu",
+        "kelasa",
+        "aduge"
+      ],
+      "right_items": [
+        "drink",
+        "see/watch",
+        "talk",
+        "work",
+        "cook"
+      ],
+      "correct_map": {
+        "kudi": "drink",
+        "nodu": "see/watch",
+        "maataadu": "talk",
+        "kelasa": "work",
+        "aduge": "cook"
+      },
+      "explanation": "Additional verb roots and nouns.",
+      "tags": [
+        "verb",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match8",
+      "type": "match_pairs",
+      "left_items": [
+        "baa",
+        "banni",
+        "kudi",
+        "kudiri",
+        "maadu",
+        "madi",
+        "keli",
+        "kelu",
+        "nodi",
+        "nodu"
+      ],
+      "right_items": [
+        "come (informal)",
+        "come (polite/plural)",
+        "drink (informal)",
+        "drink (polite)",
+        "do (informal)",
+        "do (polite)",
+        "listen (polite)",
+        "listen (informal)",
+        "see/watch (polite)",
+        "see/watch (informal)"
+      ],
+      "correct_map": {
+        "baa": "come (informal)",
+        "banni": "come (polite/plural)",
+        "kudi": "drink (informal)",
+        "kudiri": "drink (polite)",
+        "maadu": "do (informal)",
+        "madi": "do (polite)",
+        "keli": "listen (polite)",
+        "kelu": "listen (informal)",
+        "nodi": "see/watch (polite)",
+        "nodu": "see/watch (informal)"
+      },
+      "explanation": "Imperative forms for common verbs.",
+      "tags": [
+        "imperative",
+        "verb",
+        "polite"
+      ]
+    },
+    {
+      "id": "match9",
+      "type": "match_pairs",
+      "left_items": [
+        "maadalla",
+        "oodalla",
+        "hogalla",
+        "bartalla",
+        "tinalla",
+        "kudalla",
+        "kelalla",
+        "nodalla"
+      ],
+      "right_items": [
+        "won't do/don't want to do",
+        "won't read",
+        "won't go",
+        "won't come",
+        "won't eat",
+        "won't drink",
+        "won't listen",
+        "won't see/watch"
+      ],
+      "correct_map": {
+        "maadalla": "won't do/don't want to do",
+        "oodalla": "won't read",
+        "hogalla": "won't go",
+        "bartalla": "won't come",
+        "tinalla": "won't eat",
+        "kudalla": "won't drink",
+        "kelalla": "won't listen",
+        "nodalla": "won't see/watch"
+      },
+      "explanation": "Negative forms for verbs.",
+      "tags": [
+        "negative",
+        "verb"
+      ]
+    },
+    {
+      "id": "match10",
+      "type": "match_pairs",
+      "left_items": [
+        "hogta idini",
+        "barta idini",
+        "maadta idini",
+        "tinnuta idini",
+        "kudita idini",
+        "ooduta idini",
+        "keluta idini",
+        "noduta idini"
+      ],
+      "right_items": [
+        "I am going",
+        "I am coming",
+        "I am doing",
+        "I am eating",
+        "I am drinking",
+        "I am reading",
+        "I am listening",
+        "I am watching"
+      ],
+      "correct_map": {
+        "hogta idini": "I am going",
+        "barta idini": "I am coming",
+        "maadta idini": "I am doing",
+        "tinnuta idini": "I am eating",
+        "kudita idini": "I am drinking",
+        "ooduta idini": "I am reading",
+        "keluta idini": "I am listening",
+        "noduta idini": "I am watching"
+      },
+      "explanation": "Present continuous verb forms.",
+      "tags": [
+        "tense",
+        "present"
+      ]
+    },
+    {
+      "id": "match11",
+      "type": "match_pairs",
+      "left_items": [
+        "hōde",
+        "bartini",
+        "maadide",
+        "maadutini",
+        "tinnide",
+        "tinnutini",
+        "kudide",
+        "kudutini"
+      ],
+      "right_items": [
+        "I went",
+        "I will come",
+        "I did",
+        "I will do",
+        "I ate",
+        "I will eat",
+        "I drank",
+        "I will drink"
+      ],
+      "correct_map": {
+        "hōde": "I went",
+        "bartini": "I will come",
+        "maadide": "I did",
+        "maadutini": "I will do",
+        "tinnide": "I ate",
+        "tinnutini": "I will eat",
+        "kudide": "I drank",
+        "kudutini": "I will drink"
+      },
+      "explanation": "Past and future forms for various verbs.",
+      "tags": [
+        "tense",
+        "past",
+        "future"
+      ]
+    },
+    {
+      "id": "match12",
+      "type": "match_pairs",
+      "left_items": [
+        "bisi",
+        "hosa",
+        "hale",
+        "sogadu"
+      ],
+      "right_items": [
+        "hot",
+        "new",
+        "old",
+        "tasty"
+      ],
+      "correct_map": {
+        "bisi": "hot",
+        "hosa": "new",
+        "hale": "old",
+        "sogadu": "tasty"
+      },
+      "explanation": "Adjectives from the notes (some like 'sogadu' for taste).",
+      "tags": [
+        "adjective",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match13",
+      "type": "match_pairs",
+      "left_items": [
+        "Indu",
+        "Naale",
+        "Ninne",
+        "Ivatthu"
+      ],
+      "right_items": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct_map": {
+        "Indu": "today",
+        "Naale": "tomorrow",
+        "Ninne": "yesterday",
+        "Ivatthu": "now"
+      },
+      "explanation": "Basic time words (commonly used).",
+      "tags": [
+        "time",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match14",
+      "type": "match_pairs",
+      "left_items": [
+        "pustaka",
+        "phone",
+        "ootta",
+        "neeru",
+        "coffee"
+      ],
+      "right_items": [
+        "book",
+        "phone",
+        "food",
+        "water",
+        "coffee"
+      ],
+      "correct_map": {
+        "pustaka": "book",
+        "phone": "phone",
+        "ootta": "food",
+        "neeru": "water",
+        "coffee": "coffee"
+      },
+      "explanation": "Everyday nouns used in sentences.",
+      "tags": [
+        "noun",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match15",
+      "type": "match_pairs",
+      "left_items": [
+        "bili",
+        "karuppu",
+        "kempu",
+        "hasiru"
+      ],
+      "right_items": [
+        "white",
+        "black",
+        "red",
+        "green"
+      ],
+      "correct_map": {
+        "bili": "white",
+        "karuppu": "black",
+        "kempu": "red",
+        "hasiru": "green"
+      },
+      "explanation": "Basic colors in Kannada.",
+      "tags": [
+        "color",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match16",
+      "type": "match_pairs",
+      "left_items": [
+        "ondu",
+        "eradu",
+        "mooru",
+        "naalku",
+        "aidu"
+      ],
+      "right_items": [
+        "one",
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "correct_map": {
+        "ondu": "one",
+        "eradu": "two",
+        "mooru": "three",
+        "naalku": "four",
+        "aidu": "five"
+      },
+      "explanation": "Numbers from one to five.",
+      "tags": [
+        "number",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match17",
+      "type": "match_pairs",
+      "left_items": [
+        "appa",
+        "amma",
+        "anna",
+        "akka"
+      ],
+      "right_items": [
+        "father",
+        "mother",
+        "elder brother",
+        "elder sister"
+      ],
+      "correct_map": {
+        "appa": "father",
+        "amma": "mother",
+        "anna": "elder brother",
+        "akka": "elder sister"
+      },
+      "explanation": "Family member vocabulary.",
+      "tags": [
+        "family",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match18",
+      "type": "match_pairs",
+      "left_items": [
+        "tindi",
+        "oota",
+        "coffee",
+        "tea"
+      ],
+      "right_items": [
+        "breakfast",
+        "food",
+        "coffee",
+        "tea"
+      ],
+      "correct_map": {
+        "tindi": "breakfast",
+        "oota": "food",
+        "coffee": "coffee",
+        "tea": "tea"
+      },
+      "explanation": "Common foods and drinks.",
+      "tags": [
+        "food",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match19",
+      "type": "match_pairs",
+      "left_items": [
+        "Neenu",
+        "Neevu",
+        "Nimagella"
+      ],
+      "right_items": [
+        "you (informal)",
+        "you (polite/plural)",
+        "to all of you"
+      ],
+      "correct_map": {
+        "Neenu": "you (informal)",
+        "Neevu": "you (polite/plural)",
+        "Nimagella": "to all of you"
+      },
+      "explanation": "Polite distinctions for 'you'.",
+      "tags": [
+        "pronoun",
+        "politeness"
+      ]
+    },
+    {
+      "id": "match20",
+      "type": "match_pairs",
+      "left_items": [
+        "yavaga",
+        "yelli",
+        "yaake",
+        "yaru"
+      ],
+      "right_items": [
+        "when",
+        "where",
+        "why",
+        "who"
+      ],
+      "correct_map": {
+        "yavaga": "when",
+        "yelli": "where",
+        "yaake": "why",
+        "yaru": "who"
+      },
+      "explanation": "Question words used in day-to-day conversations.",
+      "tags": [
+        "question",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match21",
+      "type": "match_pairs",
+      "left_items": [
+        "beku",
+        "beda",
+        "illa",
+        "ide"
+      ],
+      "right_items": [
+        "need",
+        "don't want",
+        "not",
+        "is/are"
+      ],
+      "correct_map": {
+        "beku": "need",
+        "beda": "don't want",
+        "illa": "not",
+        "ide": "is/are"
+      },
+      "explanation": "Auxiliary/helping words.",
+      "tags": [
+        "auxiliary",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match22",
+      "type": "match_pairs",
+      "left_items": [
+        "ista illa",
+        "beku illa",
+        "bedi",
+        "no"
+      ],
+      "right_items": [
+        "don't like",
+        "don't need",
+        "don't",
+        "no"
+      ],
+      "correct_map": {
+        "ista illa": "don't like",
+        "beku illa": "don't need",
+        "bedi": "don't",
+        "no": "no"
+      },
+      "explanation": "Different negative expressions.",
+      "tags": [
+        "negation",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match23",
+      "type": "match_pairs",
+      "left_items": [
+        "hariyali",
+        "kempa",
+        "bega",
+        "shuru"
+      ],
+      "right_items": [
+        "greenery",
+        "redness",
+        "quick",
+        "start"
+      ],
+      "correct_map": {
+        "hariyali": "greenery",
+        "kempa": "redness",
+        "bega": "quick",
+        "shuru": "start"
+      },
+      "explanation": "Miscellaneous words from daily usage.",
+      "tags": [
+        "misc",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match24",
+      "type": "match_pairs",
+      "left_items": [
+        "belaigalu",
+        "madhyahna",
+        "saayankala",
+        "ratri"
+      ],
+      "right_items": [
+        "morning",
+        "afternoon",
+        "evening",
+        "night"
+      ],
+      "correct_map": {
+        "belaigalu": "morning",
+        "madhyahna": "afternoon",
+        "saayankala": "evening",
+        "ratri": "night"
+      },
+      "explanation": "Times of day vocabulary.",
+      "tags": [
+        "time",
+        "vocab"
+      ]
+    },
+    {
+      "id": "match25",
+      "type": "match_pairs",
+      "left_items": [
+        "hogutini",
+        "hogta idini",
+        "hōde",
+        "hogalla"
+      ],
+      "right_items": [
+        "I will go",
+        "I am going",
+        "I went",
+        "I will not go"
+      ],
+      "correct_map": {
+        "hogutini": "I will go",
+        "hogta idini": "I am going",
+        "hōde": "I went",
+        "hogalla": "I will not go"
+      },
+      "explanation": "Tense variations of 'go'.",
+      "tags": [
+        "tense",
+        "verb"
+      ]
+    },
+    {
+      "id": "match26",
+      "type": "match_pairs",
+      "left_items": [
+        "bartini",
+        "barta idini",
+        "bande",
+        "bartalla"
+      ],
+      "right_items": [
+        "I will come",
+        "I am coming",
+        "I came",
+        "I will not come"
+      ],
+      "correct_map": {
+        "bartini": "I will come",
+        "barta idini": "I am coming",
+        "bande": "I came",
+        "bartalla": "I will not come"
+      },
+      "explanation": "Tense variations of 'come'.",
+      "tags": [
+        "tense",
+        "verb"
+      ]
+    },
+    {
+      "id": "match27",
+      "type": "match_pairs",
+      "left_items": [
+        "tinnutini",
+        "tinnuta idini",
+        "tinnide",
+        "tinalla"
+      ],
+      "right_items": [
+        "I will eat",
+        "I am eating",
+        "I ate",
+        "I will not eat"
+      ],
+      "correct_map": {
+        "tinnutini": "I will eat",
+        "tinnuta idini": "I am eating",
+        "tinnide": "I ate",
+        "tinalla": "I will not eat"
+      },
+      "explanation": "Tense variations of 'eat'.",
+      "tags": [
+        "tense",
+        "verb"
+      ]
+    },
+    {
+      "id": "match28",
+      "type": "match_pairs",
+      "left_items": [
+        "kudutini",
+        "kudita idini",
+        "kudide",
+        "kudalla"
+      ],
+      "right_items": [
+        "I will drink",
+        "I am drinking",
+        "I drank",
+        "I will not drink"
+      ],
+      "correct_map": {
+        "kudutini": "I will drink",
+        "kudita idini": "I am drinking",
+        "kudide": "I drank",
+        "kudalla": "I will not drink"
+      },
+      "explanation": "Tense variations of 'drink'.",
+      "tags": [
+        "tense",
+        "verb"
+      ]
+    },
+    {
+      "id": "match29",
+      "type": "match_pairs",
+      "left_items": [
+        "oodutini",
+        "ooduta idini",
+        "oodide",
+        "oodalla"
+      ],
+      "right_items": [
+        "I will read",
+        "I am reading",
+        "I read",
+        "I will not read"
+      ],
+      "correct_map": {
+        "oodutini": "I will read",
+        "ooduta idini": "I am reading",
+        "oodide": "I read",
+        "oodalla": "I will not read"
+      },
+      "explanation": "Tense variations of 'read'.",
+      "tags": [
+        "tense",
+        "verb"
+      ]
+    },
+    {
+      "id": "match30",
+      "type": "match_pairs",
+      "left_items": [
+        "kelutini",
+        "keluta idini",
+        "kelide",
+        "kelalla"
+      ],
+      "right_items": [
+        "I will listen",
+        "I am listening",
+        "I listened",
+        "I will not listen"
+      ],
+      "correct_map": {
+        "kelutini": "I will listen",
+        "keluta idini": "I am listening",
+        "kelide": "I listened",
+        "kelalla": "I will not listen"
+      },
+      "explanation": "Tense variations of 'listen'.",
+      "tags": [
+        "tense",
+        "verb"
+      ]
+    },
+    {
+      "id": "tf1",
+      "type": "true_false",
+      "statement": "'Nannage coffee beku' means 'I want coffee.'",
+      "correct": true,
+      "explanation": "'Beku' means want or need.",
+      "tags": [
+        "beku",
+        "translation"
+      ]
+    },
+    {
+      "id": "tf2",
+      "type": "true_false",
+      "statement": "'Nannage neeru beda' means 'I want water.'",
+      "correct": false,
+      "explanation": "'Beda' means don't want, so this means 'I don't want water.'",
+      "tags": [
+        "beda",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf3",
+      "type": "true_false",
+      "statement": "'Naanu oota tinnide' means 'I am eating.'",
+      "correct": false,
+      "explanation": "'Tinnide' is past tense; it means 'I ate.'",
+      "tags": [
+        "tense",
+        "past"
+      ]
+    },
+    {
+      "id": "tf4",
+      "type": "true_false",
+      "statement": "'Naanu oota tinnuta idini' means 'I am eating.'",
+      "correct": true,
+      "explanation": "'Tinnuta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present"
+      ]
+    },
+    {
+      "id": "tf5",
+      "type": "true_false",
+      "statement": "'Kelasa maadutini' means 'I will work.'",
+      "correct": true,
+      "explanation": "'Maadutini' is future tense.",
+      "tags": [
+        "tense",
+        "future"
+      ]
+    },
+    {
+      "id": "tf6",
+      "type": "true_false",
+      "statement": "'Kelasa maadide' means 'I will work.'",
+      "correct": false,
+      "explanation": "'Maadide' is past tense 'I did work.'",
+      "tags": [
+        "tense",
+        "past"
+      ]
+    },
+    {
+      "id": "tf7",
+      "type": "true_false",
+      "statement": "'Olage' means 'outside'.",
+      "correct": false,
+      "explanation": "'Olage' means inside; 'horage' means outside.",
+      "tags": [
+        "location",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf8",
+      "type": "true_false",
+      "statement": "'Horage' means 'outside'.",
+      "correct": true,
+      "explanation": "Correct: 'Horage' means outside.",
+      "tags": [
+        "location",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf9",
+      "type": "true_false",
+      "statement": "'Kelage' means 'up'.",
+      "correct": false,
+      "explanation": "'Kelage' means down/below; 'melage' would be up (not in notes).",
+      "tags": [
+        "location",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf10",
+      "type": "true_false",
+      "statement": "'Alli' means 'in/at'.",
+      "correct": true,
+      "explanation": "'Alli' means in or at a location.",
+      "tags": [
+        "location",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf11",
+      "type": "true_false",
+      "statement": "'Banni' is polite 'come'.",
+      "correct": true,
+      "explanation": "'Banni' is used as a polite/plural imperative.",
+      "tags": [
+        "polite",
+        "imperative"
+      ]
+    },
+    {
+      "id": "tf12",
+      "type": "true_false",
+      "statement": "'Baa' is polite 'come'.",
+      "correct": false,
+      "explanation": "'Baa' is informal 'come'; 'banni' is polite.",
+      "tags": [
+        "polite",
+        "imperative"
+      ]
+    },
+    {
+      "id": "tf13",
+      "type": "true_false",
+      "statement": "'Keli' is polite 'listen'.",
+      "correct": true,
+      "explanation": "'Keli' is polite imperative for listen.",
+      "tags": [
+        "polite",
+        "imperative"
+      ]
+    },
+    {
+      "id": "tf14",
+      "type": "true_false",
+      "statement": "'Kelu' is polite 'listen'.",
+      "correct": false,
+      "explanation": "'Kelu' is informal 'listen'; 'keli' is polite.",
+      "tags": [
+        "polite",
+        "imperative"
+      ]
+    },
+    {
+      "id": "tf15",
+      "type": "true_false",
+      "statement": "'Kodi' is 'give' informal.",
+      "correct": false,
+      "explanation": "'Kodi' is polite 'give'; 'kodu' is informal.",
+      "tags": [
+        "polite",
+        "imperative"
+      ]
+    },
+    {
+      "id": "tf16",
+      "type": "true_false",
+      "statement": "'Kodi' is 'give' polite.",
+      "correct": true,
+      "explanation": "Correct: 'Kodi' is used politely to ask someone to give.",
+      "tags": [
+        "polite",
+        "imperative"
+      ]
+    },
+    {
+      "id": "tf17",
+      "type": "true_false",
+      "statement": "'Naanu hogutini' means 'I am going'.",
+      "correct": false,
+      "explanation": "'Hogutini' is future; it means 'I will go'.",
+      "tags": [
+        "tense",
+        "future"
+      ]
+    },
+    {
+      "id": "tf18",
+      "type": "true_false",
+      "statement": "'Naanu hogta idini' means 'I am going'.",
+      "correct": true,
+      "explanation": "'Hogta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present"
+      ]
+    },
+    {
+      "id": "tf19",
+      "type": "true_false",
+      "statement": "'Naanu bartini' means 'I will come'.",
+      "correct": true,
+      "explanation": "'Bartini' is future tense 'I will come'.",
+      "tags": [
+        "tense",
+        "future"
+      ]
+    },
+    {
+      "id": "tf20",
+      "type": "true_false",
+      "statement": "'Naanu barta idini' means 'I will come'.",
+      "correct": false,
+      "explanation": "'Barta idini' is present continuous 'I am coming'.",
+      "tags": [
+        "tense",
+        "present"
+      ]
+    },
+    {
+      "id": "tf21",
+      "type": "true_false",
+      "statement": "'Naanu oodutini' means 'I will read'.",
+      "correct": true,
+      "explanation": "'Oodutini' is future tense 'I will read'.",
+      "tags": [
+        "tense",
+        "future"
+      ]
+    },
+    {
+      "id": "tf22",
+      "type": "true_false",
+      "statement": "'Naanu ooduta idini' means 'I am reading'.",
+      "correct": true,
+      "explanation": "'Ooduta idini' is present continuous.",
+      "tags": [
+        "tense",
+        "present"
+      ]
+    },
+    {
+      "id": "tf23",
+      "type": "true_false",
+      "statement": "'Naanu oodide' means 'I will read'.",
+      "correct": false,
+      "explanation": "'Oodide' is past tense 'I read'.",
+      "tags": [
+        "tense",
+        "past"
+      ]
+    },
+    {
+      "id": "tf24",
+      "type": "true_false",
+      "statement": "'Naanu tinnuta idini' means 'I ate'.",
+      "correct": false,
+      "explanation": "'Tinnuta idini' is present continuous 'I am eating'.",
+      "tags": [
+        "tense",
+        "present"
+      ]
+    },
+    {
+      "id": "tf25",
+      "type": "true_false",
+      "statement": "'Naanu tinnide' means 'I ate'.",
+      "correct": true,
+      "explanation": "'Tinnide' is past tense.",
+      "tags": [
+        "tense",
+        "past"
+      ]
+    },
+    {
+      "id": "tf26",
+      "type": "true_false",
+      "statement": "'Ista illa' means 'don't like'.",
+      "correct": true,
+      "explanation": "'Ista illa' expresses dislike.",
+      "tags": [
+        "expression",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf27",
+      "type": "true_false",
+      "statement": "'Beda' means 'don't want'.",
+      "correct": true,
+      "explanation": "'Beda' is used to refuse.",
+      "tags": [
+        "expression",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf28",
+      "type": "true_false",
+      "statement": "'Beku' means 'cat'.",
+      "correct": false,
+      "explanation": "'Beku' means want / need; 'bekku' is cat (not in notes).",
+      "tags": [
+        "expression",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf29",
+      "type": "true_false",
+      "statement": "'Beku' means 'want/need'.",
+      "correct": true,
+      "explanation": "Correct: 'Beku' expresses want or need.",
+      "tags": [
+        "expression",
+        "meaning"
+      ]
+    },
+    {
+      "id": "tf30",
+      "type": "true_false",
+      "statement": "'Nimage' means 'to me'.",
+      "correct": false,
+      "explanation": "'Nimage' means 'to you' (polite).",
+      "tags": [
+        "pronoun",
+        "dative"
+      ]
+    },
+    {
+      "id": "sc1",
+      "type": "scenario",
+      "situation": "You are at a restaurant and want to politely ask for water.",
+      "options": [
+        "Nannage neeru kodi",
+        "Nimage neeru kodi",
+        "Neevu neeru kudiri"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Nannage neeru kodi' means 'Please give me water'.",
+      "tags": [
+        "restaurant",
+        "request",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc2",
+      "type": "scenario",
+      "situation": "You are offered coffee but you don't want it.",
+      "options": [
+        "Nannage coffee beda",
+        "Nannage coffee beku",
+        "Nannage coffee ista"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Coffee beda' means 'I don't want coffee'.",
+      "tags": [
+        "refusal",
+        "coffee",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc3",
+      "type": "scenario",
+      "situation": "You're calling your friend inside your house informally.",
+      "options": [
+        "Olage baa",
+        "Olage banni",
+        "Kelage hogta idini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Olage baa' is informal 'come inside'.",
+      "tags": [
+        "informal",
+        "come",
+        "location"
+      ]
+    },
+    {
+      "id": "sc4",
+      "type": "scenario",
+      "situation": "You're talking to a shopkeeper politely and want them to come here.",
+      "options": [
+        "Banni illi",
+        "Baa illi",
+        "Bartini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Banni illi' politely asks someone to come here.",
+      "tags": [
+        "polite",
+        "request",
+        "come"
+      ]
+    },
+    {
+      "id": "sc5",
+      "type": "scenario",
+      "situation": "You need someone to listen carefully.",
+      "options": [
+        "Keli",
+        "Kelu",
+        "Kelutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Keli' is polite 'listen'.",
+      "tags": [
+        "polite",
+        "listen",
+        "request"
+      ]
+    },
+    {
+      "id": "sc6",
+      "type": "scenario",
+      "situation": "You want to tell an auto driver politely to go to MG Road.",
+      "options": [
+        "MG Road ge hogi sir",
+        "MG Road ge banni",
+        "MG Road ge bartini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Hogi sir' politely tells them to go.",
+      "tags": [
+        "travel",
+        "auto",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc7",
+      "type": "scenario",
+      "situation": "You're at a friend's place and want to politely ask them to give you the book.",
+      "options": [
+        "Nannage pustaka kodi",
+        "Nimage pustaka kodi",
+        "Neevu pustaka kudiri"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Pustaka kodi' means 'give me the book'.",
+      "tags": [
+        "request",
+        "book",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc8",
+      "type": "scenario",
+      "situation": "You want to tell a child to eat food.",
+      "options": [
+        "Oota tinnu",
+        "Oota tinniri",
+        "Oota tinnutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Oota tinnu' is an informal command to eat.",
+      "tags": [
+        "informal",
+        "eat",
+        "imperative"
+      ]
+    },
+    {
+      "id": "sc9",
+      "type": "scenario",
+      "situation": "You want to tell an elder to eat food politely.",
+      "options": [
+        "Oota tinniri",
+        "Oota tinnu",
+        "Oota tinnutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Tinniri' is polite imperative to eat.",
+      "tags": [
+        "polite",
+        "eat",
+        "imperative"
+      ]
+    },
+    {
+      "id": "sc10",
+      "type": "scenario",
+      "situation": "You want to ask someone politely to read the book.",
+      "options": [
+        "Pustaka odi",
+        "Pustaka odu",
+        "Pustaka oodutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Odi' is polite imperative for read.",
+      "tags": [
+        "polite",
+        "read",
+        "imperative"
+      ]
+    },
+    {
+      "id": "sc11",
+      "type": "scenario",
+      "situation": "You're at your office; you want to tell your colleague politely to come out.",
+      "options": [
+        "Horage banni",
+        "Olage banni",
+        "Kelage hogi"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Horage banni' means 'come outside' politely.",
+      "tags": [
+        "polite",
+        "come",
+        "location"
+      ]
+    },
+    {
+      "id": "sc12",
+      "type": "scenario",
+      "situation": "You want to tell a friend: I am going to the market.",
+      "options": [
+        "Naanu market ge hogta idini",
+        "Naanu market ge hogutini",
+        "Naanu market ge hogde"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Present continuous form suits 'I am going'.",
+      "tags": [
+        "present",
+        "go",
+        "market"
+      ]
+    },
+    {
+      "id": "sc13",
+      "type": "scenario",
+      "situation": "You want to tell a friend: I will go to the office.",
+      "options": [
+        "Naanu office ge hogutini",
+        "Naanu office ge hogta idini",
+        "Naanu office ge hogde"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Future tense: 'hogutini'.",
+      "tags": [
+        "future",
+        "go",
+        "office"
+      ]
+    },
+    {
+      "id": "sc14",
+      "type": "scenario",
+      "situation": "You need to ask politely if someone likes coffee.",
+      "options": [
+        "Nimage coffee ista?",
+        "Nimage coffee beda?",
+        "Nimage coffee beku?"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Ista?' asks if they like.",
+      "tags": [
+        "question",
+        "coffee",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc15",
+      "type": "scenario",
+      "situation": "You want to ask politely if someone likes tea.",
+      "options": [
+        "Nimage tea ista?",
+        "Nimage tea beda?",
+        "Nimage tea beku?"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Use 'ista?' to ask if they like something.",
+      "tags": [
+        "question",
+        "tea",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc16",
+      "type": "scenario",
+      "situation": "You want to ask politely if someone wants water.",
+      "options": [
+        "Nimage neeru beku?",
+        "Nimage neeru beda?",
+        "Nimage neeru ista?"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Beku?' asks if they want something.",
+      "tags": [
+        "question",
+        "water",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc17",
+      "type": "scenario",
+      "situation": "You're telling someone politely that you don't want water.",
+      "options": [
+        "Nannage neeru beda",
+        "Nimage neeru beda",
+        "Namma neeru beda"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Nannage neeru beda' means 'I don't want water'.",
+      "tags": [
+        "refusal",
+        "water",
+        "polite"
+      ]
+    },
+    {
+      "id": "sc18",
+      "type": "scenario",
+      "situation": "You tell your friend: 'I will come'.",
+      "options": [
+        "Naanu bartini",
+        "Naanu barta idini",
+        "Naanu bande"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Bartini' is future tense 'I will come'.",
+      "tags": [
+        "future",
+        "come",
+        "statement"
+      ]
+    },
+    {
+      "id": "sc19",
+      "type": "scenario",
+      "situation": "You tell your friend: 'I am coming'.",
+      "options": [
+        "Naanu barta idini",
+        "Naanu bartini",
+        "Naanu bande"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Barta idini' is present continuous.",
+      "tags": [
+        "present",
+        "come",
+        "statement"
+      ]
+    },
+    {
+      "id": "sc20",
+      "type": "scenario",
+      "situation": "You are leaving and say to your friend: 'I am going'.",
+      "options": [
+        "Naanu hogta idini",
+        "Naanu hogutini",
+        "Naanu hoge"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Present continuous: 'hogta idini'.",
+      "tags": [
+        "present",
+        "go",
+        "statement"
+      ]
+    },
+    {
+      "id": "sc21",
+      "type": "scenario",
+      "situation": "You are making a polite request: 'Please listen'.",
+      "options": [
+        "Keli",
+        "Kelu",
+        "Kelutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Keli' is polite imperative.",
+      "tags": [
+        "polite",
+        "listen",
+        "imperative"
+      ]
+    },
+    {
+      "id": "sc22",
+      "type": "scenario",
+      "situation": "You are telling someone politely: 'Please drink the coffee'.",
+      "options": [
+        "Coffee kudiri",
+        "Coffee kudi",
+        "Coffee kudutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Kudiri' is polite imperative to drink.",
+      "tags": [
+        "polite",
+        "drink",
+        "request"
+      ]
+    },
+    {
+      "id": "sc23",
+      "type": "scenario",
+      "situation": "You are telling your friend informally: 'Drink water'.",
+      "options": [
+        "Neeru kudi",
+        "Neeru kudiri",
+        "Neeru kudutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Kudi' is informal imperative.",
+      "tags": [
+        "informal",
+        "drink",
+        "imperative"
+      ]
+    },
+    {
+      "id": "sc24",
+      "type": "scenario",
+      "situation": "You politely ask someone to give you time.",
+      "options": [
+        "Swalpa time kodi",
+        "Swalpa time beku",
+        "Swalpa time beda"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Kodi' politely means 'give me'.",
+      "tags": [
+        "polite",
+        "request",
+        "time"
+      ]
+    },
+    {
+      "id": "sc25",
+      "type": "scenario",
+      "situation": "You politely ask someone to do the work.",
+      "options": [
+        "Kelasa madi",
+        "Kelasa maadu",
+        "Kelasa maadutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Madi' is polite imperative for 'do'.",
+      "tags": [
+        "polite",
+        "work",
+        "request"
+      ]
+    },
+    {
+      "id": "sc26",
+      "type": "scenario",
+      "situation": "You are telling a friend to do work.",
+      "options": [
+        "Kelasa maadu",
+        "Kelasa madi",
+        "Kelasa maadutini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Maadu' is informal imperative.",
+      "tags": [
+        "informal",
+        "work",
+        "imperative"
+      ]
+    },
+    {
+      "id": "sc27",
+      "type": "scenario",
+      "situation": "You ask a friend to come out.",
+      "options": [
+        "Horage baa",
+        "Olage baa",
+        "Horage banni"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Horage baa' means 'come outside' informally.",
+      "tags": [
+        "informal",
+        "come",
+        "location"
+      ]
+    },
+    {
+      "id": "sc28",
+      "type": "scenario",
+      "situation": "You ask politely to go inside.",
+      "options": [
+        "Olage hogi",
+        "Horage hogi",
+        "Olage hogta idini"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Hogi' politely means 'go'.",
+      "tags": [
+        "polite",
+        "go",
+        "location"
+      ]
+    },
+    {
+      "id": "sc29",
+      "type": "scenario",
+      "situation": "You tell someone you like Kannada.",
+      "options": [
+        "Kannada ista",
+        "Kannada ista illa",
+        "Kannada beda"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Ista' expresses like.",
+      "tags": [
+        "like",
+        "Kannada",
+        "statement"
+      ]
+    },
+    {
+      "id": "sc30",
+      "type": "scenario",
+      "situation": "You politely tell someone you don't like traffic.",
+      "options": [
+        "Traffic ista illa",
+        "Traffic ista",
+        "Traffic beku"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "'Ista illa' means don't like.",
+      "tags": [
+        "dislike",
+        "traffic",
+        "polite"
+      ]
+    }
+  ]
+}
