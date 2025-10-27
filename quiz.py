@@ -33,9 +33,23 @@ def get_random_reaction(reactions: dict, is_correct: bool):
     reaction_type = "positive" if is_correct else "negative"
     return random.choice(reactions[reaction_type])
 
-def get_sampled_questions(all_qs, num):
-    # Randomly sample without replacement
-    return random.sample(all_qs, k=num)
+def get_sampled_questions(all_qs, num, exclude_indices=None):
+    """
+    Randomly sample questions without replacement.
+    If exclude_indices is provided, will only sample from questions not in that list.
+    """
+    if exclude_indices is None:
+        exclude_indices = []
+    
+    # Get available questions (not yet asked)
+    available_qs = [q for i, q in enumerate(all_qs) if i not in exclude_indices]
+    
+    # If not enough available questions, return all available
+    if len(available_qs) < num:
+        return available_qs
+    
+    # Sample from available questions
+    return random.sample(available_qs, k=num)
 
 def init_session_state():
     if "quiz_data" not in st.session_state:
@@ -56,6 +70,8 @@ def init_session_state():
         st.session_state.num_to_ask = None
     if "quiz_started" not in st.session_state:
         st.session_state.quiz_started = False
+    if "asked_questions" not in st.session_state:
+        st.session_state.asked_questions = []
 
 
 def reset_quiz(sample_count=None):
@@ -69,10 +85,33 @@ def reset_quiz(sample_count=None):
 
     if sample_count is not None and st.session_state.quiz_data:
         st.session_state.num_to_ask = sample_count
-        st.session_state.selected_questions = get_sampled_questions(
-            st.session_state.quiz_data["questions"],
-            sample_count
-        )
+        
+        # Get questions and their indices for tracking
+        all_questions = st.session_state.quiz_data["questions"]
+        
+        # Check if we need to reset asked history (all questions exhausted)
+        total_questions = len(all_questions)
+        available_questions = total_questions - len(st.session_state.asked_questions)
+        
+        if available_questions < sample_count:
+            # Not enough unasked questions - reset the asked history
+            st.session_state.asked_questions = []
+        
+        # Sample questions that haven't been asked yet
+        sampled = get_sampled_questions(all_questions, sample_count, 
+                                       exclude_indices=st.session_state.asked_questions)
+        st.session_state.selected_questions = sampled
+        
+        # Track these questions as asked by finding their indices
+        for q in sampled:
+            # Find the index of this question in the full question pool
+            try:
+                idx = all_questions.index(q)
+                if idx not in st.session_state.asked_questions:
+                    st.session_state.asked_questions.append(idx)
+            except ValueError:
+                # Question not found in all_questions (shouldn't happen)
+                pass
     else:
         st.session_state.selected_questions = []
 
